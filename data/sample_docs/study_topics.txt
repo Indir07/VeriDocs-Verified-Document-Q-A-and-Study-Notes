@@ -1,0 +1,4 @@
+RAG combines information retrieval with a generation model.
+The retriever finds relevant chunks from the indexed documents.
+The generator produces an answer using retrieved context.
+Verification helps determine if the answer is grounded in evidence.
