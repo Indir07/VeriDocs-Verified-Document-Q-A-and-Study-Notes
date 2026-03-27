@@ -70,11 +70,14 @@ streamlit run app.py
 - Which SQL database stores vectors in this project?
 
 ## Screenshots
-Add screenshots from your run in this section before client handoff.
+### Q&A Supported Example
+![Q&A Supported Example](docs/screenshots/qa-result.png)
 
-- Home + Q&A result: `docs/screenshots/qa-result.png`
-- Unsupported question result: `docs/screenshots/not-supported.png`
-- Study notes result: `docs/screenshots/study-notes.png`
+### Q&A Unsupported Example
+![Q&A Unsupported Example](docs/screenshots/not-supported.png)
+
+### Study Notes Example
+![Study Notes Example](docs/screenshots/study-notes.png)
 
 ## Client Handoff Checklist
 - Repository pushed and accessible
